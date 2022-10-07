@@ -16,7 +16,7 @@ int main(){
 		cout << "===============MENU===============" << endl;
 		cout << "1. Cac thuat toan sap xep" << endl;
 		cout << "2. Cac cau truc du lieu" << endl;
-		cout << "Nhap lua chon: "; cin >> lc;
+		cout << "Nhap lua chon : "; cin >> lc;
 		switch(lc){
 			case 1:{
 				system("CLS");
